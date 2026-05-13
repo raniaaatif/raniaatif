@@ -1,4 +1,4 @@
-# Hi, I'm raniaatef 👋
+# Hi, I'm Raniaatef 👋
 
 Front-End Developer | BIS Student
 
